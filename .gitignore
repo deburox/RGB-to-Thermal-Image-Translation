@@ -1,0 +1,33 @@
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter files
+.ipynb_checkpoints/
+
+# Dataset (large files)
+dataset/
+
+# TensorFlow and Keras temporary files
+*.log
+*.tmp
+
+# macOS system files
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Python test cache
+.pytest_cache/
+
+# Temporary files
+*.bak
+*.swp
